@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Desktop\sparing\obj\Debug\net8.0\sparing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\sparing\obj\Debug\net8.0\sparing.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\sparing\obj\Debug\net8.0\sparing.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\sparing\obj\Debug\net8.0\sparing.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\sparing\obj\Debug\net8.0\sparing.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\sparing\obj\Debug\net8.0\sparing.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\sparing\obj\Debug\net8.0\sparing.RazorAssemblyInfo.cs
